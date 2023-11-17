@@ -1,0 +1,12 @@
+# (.venv) Python 3.10.11
+
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+scikit-learn
+tensorflow
+ydata-profiling
+imblearn
+seaborn
